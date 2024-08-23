@@ -1,5 +1,5 @@
 # Hashing-Exercises
-## Desenvolva um sistema de registro de estudantes para uma universidade. 
+## Desenvolver um sistema de registro de estudantes para uma universidade. 
 O sistema deve ser capaz de cadastrar, 
 pesquisar e remover registros de estudantes de forma eficiente. Para isso, utilize uma tabela Hash com colisões 
 resolvidas por encadeamento para armazenar os dados dos estudantes para permitir buscas rápidas. 
