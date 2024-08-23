@@ -15,5 +15,4 @@ Faça um programa que apresente o seguinte menu de opções:
 3- Pesquisar um estudante. Caso conste deve-se imprimir todos os dados do estudante, senão deve-se imprimir 
 a mensagem: Estudante não cadastrado 
 4- Sair 
-### O programa deve ler a opção escolhida pelo usuário, ler os dados necessários e fazer o processamento. O programa deve ser executado até que a opção 4 seja escolhida pelo usuário. Considere que a tabela terá tamanho m = 101.
-
+### O programa deve ler a opção escolhida pelo usuário, ler os dados necessários e fazer o processamento. O programa deve ser executado até que a opção 4 seja escolhida pelo usuário.
